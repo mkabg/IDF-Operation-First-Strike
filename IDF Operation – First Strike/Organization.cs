@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace IDF_Operation___First_Strike
 {
-    internal class Program
+    internal class Organization
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("hello");
-        }
     }
 }
