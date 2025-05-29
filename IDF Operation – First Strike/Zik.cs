@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IDF_Operation___First_Strike
 {
-    internal class Zik
+    class Zik
     {
     }
 }

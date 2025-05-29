@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="F16.cs" />
+    <Compile Include="IIntelligenceSource.cs" />
+    <Compile Include="logic\Permision.cs" />
+    <Compile Include="M109.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StrikeOptions.cs" />
+    <Compile Include="StrikOption.cs" />
+    <Compile Include="Zik.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
